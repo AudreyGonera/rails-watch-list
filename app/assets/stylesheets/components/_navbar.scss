@@ -1,3 +1,12 @@
+.nav-item {
+  text-decoration: none;
+  padding: 10px;
+
+  &:hover {
+    color: $orange;
+  }
+}
+
 .navbar-lewagon {
   justify-content: space-between;
   background: white;
